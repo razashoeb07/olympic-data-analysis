@@ -34,16 +34,19 @@ This project dives into the comprehensive analysis of Olympic Games data, uncove
 
 ## 📚 Project Structure
 ```
-📦 Olympic Data Analysis
-┣ 📂 data          # Raw and processed data files
-┣ 📂 notebooks     # Jupyter notebooks for analysis
-┣ 📂 scripts       # Python scripts for data cleaning and visualization
-┣ 📂 static        # Static files (CSS, images, etc.)
-┣ 📂 dashboard     # Streamlit dashboard implementation
-┣ 📜 .gitignore    # Git ignored files
-┣ 📜 README.md     # Documentation
-┣ 📜 analysis.py    # Core data analysis logic
-┣ 📜 app.py         # Main application entry point
+📦 Olympics Analysis Web App
+┣ 📂 data # Dataset files (e.g., athlete_events.csv)
+┣ 📂 components # Core logic for data visualization and analysis
+┣ 📂 utils # Utility functions for data processing
+┣ 📂 static # Static files (e.g., images, CSS)
+┣ 📜 .gitignore # Files and folders to be ignored by Git
+┣ 📜 README.md # Project documentation
+┣ 📜 App.py # Main application entry point (Streamlit dashboard)
+┣ 📜 helper.py # Helper functions for data manipulation
+┣ 📜 preprocessor.py # Data cleaning and preprocessing logic
+┣ 📜 Procfile # Deployment instructions for Heroku
+┣ 📜 requirements.txt # Dependencies list
+┣ 📜 setup.sh # Heroku-specific setup script
 ```
 
 ## 📨 Connect with Me
