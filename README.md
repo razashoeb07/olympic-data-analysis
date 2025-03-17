@@ -1,4 +1,4 @@
-# Olympic Data Analysis 
+## Olympic Data Analysis 
 <br>
 # ⚽️ Olympic Data Analysis 🌟
 
