@@ -1,6 +1,5 @@
-## Olympic Data Analysis 
-<br>
-# ⚽️ Olympic Data Analysis 🌟
+
+## ⚽️ Olympic Data Analysis  🌟
 
 This project dives into the comprehensive analysis of Olympic Games data, uncovering insights and trends using data visualization techniques.
 
