@@ -49,7 +49,7 @@ This project dives into the comprehensive analysis of Olympic Games data, uncove
 ```
 
 ## 📨 Connect with Me
-- LinkedIn:www.linkedin.com/in/shoebraza02
+- LinkedIn: www.linkedin.com/in/shoebraza02
 - Email: shoebraza7084@gmail.com
 
 
